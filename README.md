@@ -1,6 +1,5 @@
 # White Knight Labs Hashcat Repository
 
-![White Knight Labs Logo](https://whiteknightlabs.com/wp-content/uploads/2021/09/white_knight_labs_red_team_r2-03.png)
 
 
 ## What this repository contains
