@@ -1,6 +1,6 @@
 # White Knight Labs Hashcat Repository
 
-![White Knight Labs Red Team Logo](./Uploads/White Knight Labs Red Team_FF-02.png)
+![White Knight Labs Red Team Logo](../Uploads/White Knight Labs Red Team_FF-02.png)
 
 
 ## What this repository contains
