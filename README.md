@@ -1,5 +1,8 @@
 # White Knight Labs Hashcat Repository
 
+![White Knight Labs Logo](https://whiteknightlabs.com/wp-content/uploads/2021/09/white_knight_labs_red_team_r2-03.png)
+
+
 ## What this repository contains
 
 This repository contains a collection of Hashcat rules, masks, and wordlists that can be used for password cracking. The rules and masks can be used to generate custom password lists, while the wordlists provide a starting point for password cracking.
